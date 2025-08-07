@@ -80,15 +80,15 @@ Push to GitHub:
 git push origin feature/your-feature-name
 
 Submit a Pull Request
-## 🧑‍💻 Author
+# 🧑‍💻 Author
 Abinas Swain
 📧 abinasswain400326@gmail.com
 🌐 GitHub Profile
 
-## 📄 License
+# 📄 License
 This project is licensed under the ISC License.
 
-## 🔮 Future Scope
+# 🔮 Future Scope
 Add due dates and task priorities
 
 Add drag-and-drop support
